@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYbvKVMLTCZOSllDa67pmQ/ieQDaXb8k4/ok8G/C68sBN7By1FnCeN88xbUEc2Rr/CyFsP+wzh8QRwaCAc2Yyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\master\\source\\repos\\ConsoleApp14\\ConsoleApp14\\ConsoleApp14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\master\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
